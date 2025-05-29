@@ -37,13 +37,13 @@ The dataset used is a version of the classic Titanic dataset containing the foll
 ## Data Visualizations
 
 ### Age Distribution
-![Age Distribution](images/age_distribution.png)
+![Age Distribution](imagesage_distribution.png)
 
 ### Survival by Class and Gender
-![Survival by Class and Gender](images/survival_by_class_gender.png)
+![Survival by Class and Gender](imagessurvival_by_class_gender.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](imagescorrelation_heatmap.png)
 
 ---
 
